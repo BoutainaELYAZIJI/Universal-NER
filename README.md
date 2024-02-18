@@ -6,7 +6,7 @@ This Streamlit-based web application is designed to process PDF documents for Na
 
 ## Screenshots
 
-<img  src="https://github.com/BoutainaELYAZIJI/Universal-NER/Universal-NER PDF Analysis.png" >
+<img  src="https://github.com/BoutainaELYAZIJI/Universal-NER/blob/main/Universal-NER PDF Analysis.png" >
 
 ## Features
 
