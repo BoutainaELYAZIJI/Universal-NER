@@ -27,7 +27,7 @@ To set up the project, you need to have Python installed on your system. Follow 
    pip install -r requirements.txt
 
 3. ```sh
-   streamlit run src/app.py
+      streamlit run src/app.py
    
 
 
