@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+tabula
+tabulate
+pandas 
+fitz  
+pdfplumber
+Pillow
+transformers
+langchain
+torch
+streamlit
+sentencepiece
+-e .
